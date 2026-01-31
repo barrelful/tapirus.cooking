@@ -42,7 +42,7 @@ To Serve (per portion)
 ## Directions
 
 **Stroganoff**
-1. Dice chicken in ~2-3 cm cubes
+1. Dice chicken in ~2-3 cm cubes.
 2. Heat the oil in a wide pan over medium heat.
 2. Add the onion and **1 tsp salt** and sauté until tender and translucent.
 3. Add the diced chicken and black pepper.
