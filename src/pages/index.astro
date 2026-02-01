@@ -23,10 +23,13 @@ const tags = await getTags();
 
 ---
 
-<Head title='Home' desc='The best cooking website for open-source recipies.'>
+<Head title='Home' desc='Taste-first meal prep recipes with higher protein and lower calories.'>
 	<header>
-		<h1>Welcome to <span>foss.cooking<span></h1>
-		<h2>Making cooking fast, easy, foss</h2>
+		<a class="brand-logo" href="/">
+			<img src="/favicon/android-chrome-512x512.png" alt="Tapirus Cooking" width="96" height="96" />
+		</a>
+		<h1>Tapirus <span>Cooking</span></h1>
+		<h2>Healthier versions of tasty meals, engineered for meal prep</h2>
 		<h2>🧑‍🍳🔥</h2>
 	</header>
 	<Search content={recipes}/>

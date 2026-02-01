@@ -30,21 +30,24 @@ const {
 <Base title={name} desc=`Info on author: ${name}` author={name} >
     <article>
         <header>
-        <h1>{name}</h1>
-        <div id="links">
-            <h2><a href="/">Home</a></h2>
-            <h2><a id="back">Back</a></h2>
-        </div>
+            <a class="brand-logo" href="/">
+                <img src="/favicon/android-chrome-512x512.png" alt="Tapirus Cooking" width="96" height="96" />
+            </a>
+            <h1>{name}</h1>
+            <div id="links">
+                <h2><a href="/">Home</a></h2>
+                <h2><a id="back">Back</a></h2>
+            </div>
         </header>
-    <ul>
-        { website &&<li>Website: <a href={website}>{website}</a></li>}
-        { website_tor &&<li>Tor site: <a href={website_tor}>{website_tor}</a></li>}
-        { email &&<li>Email: <a href=`mailto:${email}` >{email}</a></li>}
-        { xmr &&<li>XMR: <span>{xmr}</span></li>}
-        { btc &&<li>BTC: <span>{btc}</span></li>}
-        { eth &&<li>ETH: <span>{eth}</span></li>}
-        { donate &&<li>Donate Link: <span>{donate}</span></li>}
-    </ul>
+        <ul>
+            { website &&<li>Website: <a href={website}>{website}</a></li>}
+            { website_tor &&<li>Tor site: <a href={website_tor}>{website_tor}</a></li>}
+            { email &&<li>Email: <a href=`mailto:${email}` >{email}</a></li>}
+            { xmr &&<li>XMR: <span>{xmr}</span></li>}
+            { btc &&<li>BTC: <span>{btc}</span></li>}
+            { eth &&<li>ETH: <span>{eth}</span></li>}
+            { donate &&<li>Donate Link: <span>{donate}</span></li>}
+        </ul>
     </article>
 </Base>
 <style>

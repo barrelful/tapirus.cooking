@@ -108,6 +108,18 @@ const page_url = site + url.pathname.substring(1);
     svg {
         transform: translateY(5px);
     }
+    .brand-logo {
+        display: block;
+        width: fit-content;
+        margin: 0 auto 16px;
+        text-decoration: none;
+        line-height: 0;
+    }
+    .brand-logo img {
+        width: clamp(56px, 8vw, 96px);
+        height: auto;
+        display: block;
+    }
     .small {
         display: none;
     }
