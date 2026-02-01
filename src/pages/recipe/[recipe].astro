@@ -100,4 +100,25 @@ let auth_obj = await getEntry(
         display: block;
         border-radius: 10px;
     }
+    /* Recipe tables: subtle outer border, lighter row separators, stronger header rule. */
+    article table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 20px 0;
+        border: 1px solid var(--second);
+        font-variant-numeric: tabular-nums;
+    }
+    article th,
+    article td {
+        padding: 6px 10px;
+        vertical-align: top;
+    }
+    article thead th {
+        font-weight: 700;
+        border-bottom: 2px solid var(--second);
+    }
+    article tbody tr + tr td,
+    article tbody tr + tr th {
+        border-top: 1px solid var(--faded);
+    }
 </style>
