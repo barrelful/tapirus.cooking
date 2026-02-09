@@ -1,94 +1,113 @@
 ---
-title: "Mango & Pineapple Sorbet (Ninja Creami)"
+title: "Mango & Pineapple Protein Sorbet (Ninja Creami)"
 date: 2026-01-20
-tags: ['dessert', 'fruit', 'sweet', 'low-carb', 'sugar-aware']
+tags: ['dessert', 'fruit', 'sweet', 'low-carb', 'sugar-aware', 'high-protein']
 author: "barrelful"
 ---
 
-A dense, smooth, low-calorie tropical sorbet formulated specifically for the Ninja Creami.  
-Designed to minimise air incorporation while delivering clean sweetness with a low-carb–friendly profile
-(polyols included in label carbs but excluded from net carbs).
+A dense, smooth, high-protein tropical sorbet formulated specifically for the Ninja Creami.  
+Unflavoured protein isolate is added to increase protein density while preserving a clean fruit profile.  
+Designed for repeatable preparation, low calorie density, and stable Creami texture.
 
 ![Sorbet](/pix/mango-sorbet-603.webp)
 
-- ⏲️  Prep time: 20 min
-- ❄️ Freeze time: 12 h
-- 🍽️ Servings: 1-2
+- ⏲️ Prep time: ~20 min
+- ❄️ Freeze time: ~12 h
+- 🍽️ Servings: 1–2
 
 ## Ingredients
 
+Base
 - 125 g mango purée
 - 112 g pineapple purée
-- 220 g water
+- 200 g water
 - 25 g erythritol
+- 30 g unflavoured whey protein isolate
 - 0.3 g salt
-- 0.8 g xanthan gum
+- 1.0 g xanthan gum
 - 1 pellet sucralose
 
-Total mass: approximately 485–490 g  
-Rule of thumb: **fruit + water ≈ 460 g**
+Total mass: approximately 490–495 g  
+Rule of thumb: **fruit + water ≈ 460 g (before protein addition)**
+
+---
 
 ## Directions
 
-1. Mixing (Texture-Critical)
+**Base (Texture-Critical Mixing)**
 
-   Recommended method: stand mixer.
+1. Add mango purée, pineapple purée, water, erythritol, salt, and sucralose to the bowl.
+2. Mix on **low speed** until erythritol is fully dissolved and the mixture is homogeneous.
+3. Add protein isolate gradually while mixing on low, allowing it to fully hydrate.
+4. With the mixer still running on low, slowly rain in the xanthan gum.
+5. Mix for **30–60 seconds**, just until the base is smooth and slightly thickened.
 
-   Blenders incorporate excess air and typically produce a lighter, icier texture in the Ninja Creami.
+Blenders are not recommended: excessive air incorporation leads to a lighter, icier Creami texture.  
+If a blender must be used, add xanthan last and blend briefly on low, then rest the base 5–10 minutes.
 
-   - Add fruit purées, water, erythritol, salt, and sucralose to the bowl.
-   - Mix on low speed until fully dissolved and homogeneous.
-   - With the mixer running on low, slowly rain in the xanthan gum.
-   - Mix for 30–60 seconds, just until the gum is fully hydrated and the base is smooth.
+**Freezing & Processing**
 
-   If using a blender (not ideal):
-   - Blend everything except xanthan on low speed.
-   - Add xanthan last and blend briefly on low to hydrate.
-   - Rest the base for 5–10 minutes to allow bubbles to rise and hydration to complete.
+1. Pour the base into the Ninja Creami pint and level the surface.
+2. Freeze solid for at least **12 hours**.
+3. Process using:
+   - **1× Sorbet**
+   - **1× Re-Spin**
 
-2. Freezing & Processing
-
-   - Pour the base into the Ninja Creami pint and level the surface.
-   - Freeze solid for at least 12 hours.
-   - Process using one Sorbet cycle followed by one Re-Spin.
+---
 
 ## Variations
 
-Pure mango or pure pineapple versions work well by keeping the **fruit + water total at approximately 460 g**.
+Pure mango or pure pineapple versions work by keeping **fruit + water ≈ 460 g**, then adding protein and stabilisers as listed.
 
-- **Mango-only**
-  - Use mango purée only.
-  - Add water as needed to reach a combined fruit + water mass of ~460 g.
-  - Typical xanthan range: 0.5–0.6 g.
+**Mango-only**
+- Use mango purée only.
+- Add water to reach ~460 g fruit + water.
+- Xanthan: 0.8–0.9 g.
 
-- **Pineapple-only**
-  - Use pineapple purée only.
-  - Add water as needed to reach a combined fruit + water mass of ~460 g.
-  - Typical xanthan range: 0.9–1.0 g.
+**Pineapple-only**
+- Use pineapple purée only.
+- Add water to reach ~460 g fruit + water.
+- Xanthan: 1.0–1.1 g.
 
-Mango contains significantly more functional pectin than pineapple, which explains the different stabiliser needs.
+Mango contains significantly more functional pectin than pineapple, reducing stabiliser requirements.
 
-## Nutritional Information
+---
 
-Label carbs are nutrition-label carbohydrates.  
-Net carbs exclude polyols (erythritol).
+## Portioning & Storage
 
-| Item | Per pint (~485 g) | Per 100 g |
+**Per portion (½ pint):**
+- ~245 g finished sorbet
+
+**Storage**
+- Freezer: up to 2 months  
+- Best texture when processed directly from frozen; do not thaw and refreeze.
+
+---
+
+## Nutritional Information (Approximate)
+
+*(1 portion = ½ pint, ~245 g ready-to-eat)*
+
+| Nutrient | Per portion | Per 100 g |
 |---|---:|---:|
-| Energy | ≈ 105–110 kcal | ≈ 22–23 kcal |
-| Total carbohydrates (label) | ≈ 50 g | ≈ 10.3 g |
-| Sugars | ≈ 25 g | ≈ 5.2 g |
-| Polyols (erythritol) | 25 g | ≈ 5.2 g |
-| Net / effective carbs | ≈ 25 g | ≈ 5.2 g |
-| Protein | ≈ 1.5 g | ≈ 0.3 g |
-| Fat | ≈ 0.6 g | ≈ 0.1 g |
-| Fibre | ≈ 3 g | ≈ 0.6 g |
-| Sodium | ≈ 120 mg | ≈ 25 mg |
+| Energy | ~95 kcal | ~39 kcal |
+| Protein | ~13.5 g | ~5.5 g |
+| Total carbohydrates (label) | ~25 g | ~10.2 g |
+| Sugars | ~12.5 g | ~5.1 g |
+| Polyols (erythritol) | ~12.5 g | ~5.1 g |
+| Fat | ~0.6 g | ~0.2 g |
+| Fibre | ~1.5 g | ~0.6 g |
+| Sodium | ~110 mg | ~45 mg |
 
-Calories assume erythritol contributes approximately 0 kcal.  
-Values vary with fruit variety and purée brand.
+> **Sodium assumption:** ~0.3 g added salt total; sodium from fruit and protein isolate included.
+
+Calories assume erythritol contributes ~0 kcal and whey isolate is ~90% protein.
+
+---
 
 ## Notes
 
-- Minimising air during mixing is critical for Creami texture.
-- Low-carb friendly, but not keto.
+- Protein isolate increases solids and water binding; xanthan is increased accordingly.
+- Whey isolate gives the best texture; plant isolates tend to require higher stabiliser levels.
+- Mixing on low speed is critical to avoid foam and grainy freeze-out.
+- Low-carb friendly, high-protein; not keto due to fruit sugars.
