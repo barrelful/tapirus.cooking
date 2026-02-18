@@ -16,7 +16,7 @@ Designed for meal prep with consistent portions, stable reheating, and suitabili
 
 ## Ingredients
 
-### Chicken
+### **Chicken**
 - 600 g chicken breast, raw (diced 1.5–2 cm)
 - 6 g cornflour
 - 6 g soy sauce (taken from total soy sauce below)
@@ -38,7 +38,7 @@ Designed for meal prep with consistent portions, stable reheating, and suitabili
 - 12 g garlic, finely chopped
 - 10 g ginger, finely chopped
 
-### Eggs
+### **Eggs**
 - 200 g egg whites
 - 2 large eggs (~100 g), beaten
 
@@ -62,19 +62,19 @@ Designed for meal prep with consistent portions, stable reheating, and suitabili
 1. Add egg whites to the hot pan and scramble until just set; remove to the chicken bowl.
 2. Add beaten whole eggs and scramble to soft curds; remove and reserve.
 
-### Vegetables & Aromatics
+### **Vegetables & Aromatics**
 1. Add remaining neutral oil to the pan.
 2. Add onion and fry **3–4 minutes** until soft and lightly golden.
 3. Add garlic and ginger; fry **20–30 s** until fragrant.
 4. Add mixed vegetables and stir-fry until hot and surface moisture evaporates.
 5. Add chopped broccoli and fry until the pan looks dry again and steam subsides.
 
-### Rice
+### **Rice**
 1. Add cold cooked rice.
 2. Press and smear to break clumps.
 3. Stir-fry until rice is fully hot and lightly toasted.
 
-### Finish
+### **Finish**
 1. Return chicken, egg whites, and whole-egg curds to the pan.
 2. Pour sauce around the edge of the pan; toss hard for **30–60 s** until evenly coated.
 3. Add sesame oil, toss briefly, and stop cooking.

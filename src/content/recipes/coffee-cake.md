@@ -85,6 +85,9 @@ Designed for **excellent flavour first**, improved nutritional profile, and reli
 
 ## Portioning & Storage
 
+**Per portion (plated):**
+- 1 slice (~130 g finished cake)
+
 ### Batter yield and volume
 
 - Total raw batter mass: **~960 g**  

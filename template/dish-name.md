@@ -1,28 +1,31 @@
 ---
-title: "Dish Name"
+title: "Recipe Title (Descriptive, Optional Subtitle)"
 date: YYYY-MM-DD
-tags: ['different', 'tags']
+tags: ["canonical", "tags", "only"]
 author: "your-name"
-# Author isn't actually what get's displayed, its just a key for linking
-# to your-name.json, where your actual name is stored.
 ---
+
+Use tags from `template/canonical-tags.txt` only.
 
 Short, factual description of the dish.  
 Second line may explain substitutions or health-oriented changes.  
 Third line should state **design intent** (portions, meal planning, freezing, etc.).
 
+<!-- Optional but recommended hero image -->
 ![Picture Alt Text](/pix/your-picture.webp)
 
-- ⏲️  Prep time: XX min
-- 🍳 Cook time: XX min
-- 🍽️ Servings: X
+- ⏲️ Prep time: ~XX min
+- 🍳 Cook time: ~XX min
+- 🍽️ Servings: N
 <!-- Optional -->
 - ❄️ Freezer-friendly (<what freezes>)
+
+---
 
 ## Ingredients
 
 <!-- Use subsections if the recipe has components -->
-<Component Name (if more than one)>
+Component Name (if more than one)
 - Ingredient with **explicit mass** (g, mL, units)
 - Avoid vague terms unless clearly optional
 - Salt entries should say “adjust to taste” once per component
@@ -34,7 +37,7 @@ Sauce
 - 160 g ricotta
 -->
 
-<Component Name (if more than one)>
+Component Name (if more than one)
 - Ingredient list continues
 
 <!-- Optional -->
@@ -46,14 +49,14 @@ To Serve (per portion)
 ## Directions
 
 <!-- Use bold headers for each component -->
-**<Component Name (if more than one)>**
+**Component Name (if more than one)**
 1. Clear, imperative step.
 2. One action per line.
 3. Quantities or constraints in **bold** if critical.
 4. Use ranges only when necessary.
 5. Avoid prose — be operational.
 
-**<Second Component (if any)>**
+**Second Component (if any)**
 1. Steps continue.
 
 ---
@@ -105,3 +108,5 @@ Any freezing instructions should specify **individual portions**.
 
 - Bullet points only.
 - Capture **why** decisions were made (technique, substitutions).
+- Mention reheating, texture changes, or stability.
+- This section is where engineering thinking lives.

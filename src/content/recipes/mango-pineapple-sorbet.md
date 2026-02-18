@@ -12,6 +12,7 @@ Designed for repeatable preparation, low calorie density, and stable Creami text
 ![Sorbet](/pix/mango-sorbet-603.webp)
 
 - ⏲️ Prep time: ~20 min
+- 🍳 Cook time: ~0 min (no thermal cook; mixing and freezing only)
 - ❄️ Freeze time: ~12 h
 - 🍽️ Servings: 1–2
 
@@ -92,10 +93,11 @@ Mango contains significantly more functional pectin than pineapple, reducing sta
 |---|---:|---:|
 | Energy | ~95 kcal | ~39 kcal |
 | Protein | ~13.5 g | ~5.5 g |
-| Total carbohydrates (label) | ~25 g | ~10.2 g |
+| Total carbohydrates | ~25 g | ~10.2 g |
 | Sugars | ~12.5 g | ~5.1 g |
 | Polyols (erythritol) | ~12.5 g | ~5.1 g |
 | Fat | ~0.6 g | ~0.2 g |
+| Saturated fat | ~0.1 g | ~0.0 g |
 | Fibre | ~1.5 g | ~0.6 g |
 | Sodium | ~110 mg | ~45 mg |
 

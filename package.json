@@ -7,7 +7,11 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "clean": "rm -rf .astro dist"
+    "clean": "rm -rf .astro dist",
+    "validate:template": "node scripts/validate-recipe-template.mjs --template template/dish-name.md",
+    "validate:recipes": "node scripts/validate-recipe-template.mjs src/content/recipes",
+    "validate:recipes:strict": "node scripts/validate-recipe-template.mjs --strict src/content/recipes",
+    "validate:all": "npm run validate:template && npm run validate:recipes"
   },
   "dependencies": {
     "astro": "^5.2.5"
