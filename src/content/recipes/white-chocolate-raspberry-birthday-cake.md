@@ -29,10 +29,11 @@ Cake batter
 - 8 g vanilla extract
 - 200 g plain flour
 - 40 g white chocolate whey protein powder (MyProtein)
-- 12 g baking powder
+- 14 g baking powder
+- 2 g baking soda
 - 2 g fine salt
 - 2 g glycerol monostearate (GMS)
-- 220 g raspberries (fresh or frozen, unthawed)
+- 180 g raspberries (fresh or frozen, unthawed)
 - 10 g cornstarch
 
 Raspberry filling
@@ -44,11 +45,13 @@ Raspberry filling
 
 White chocolate whey frosting
 - 250 g mascarpone, cold
-- 180 g whipping cream, cold
-- 90 g white chocolate
+- 140 g whipping cream, cold
+- 120 g white chocolate
 - 15 g white chocolate whey protein powder (MyProtein)
-- 20 g powdered erythritol
+- 15 g powdered erythritol
 - High-intensity sweetener (sucralose), equivalent to **5 g sugar sweetness**
+- 3 g powdered gelatin
+- 15 g water
 - 1 g glycerol monostearate (GMS)
 
 Finish
@@ -60,15 +63,15 @@ Finish
 ## Directions
 
 **Cake layer (single 25 cm pan)**
-1. Heat oven to **170 C fan** or **180 C conventional** and line one **25 cm round pan** with parchment.
+1. Heat oven to **170 C fan** or **180 C conventional** for at least **20 minutes** and line one **25 cm round pan** with parchment.
 2. Melt **125 g white chocolate** with **115 g butter** over low heat, whisk in **2 g GMS**, and cool to lukewarm.
-3. Whisk eggs, sugar, and granulated erythritol for **3-4 minutes** until pale and thicker.
+3. Whisk eggs, sugar, and granulated erythritol for **6-8 minutes** until a thick ribbon stage.
 4. Whisk in Greek yogurt, vanilla extract, and the batter sucralose dose until smooth.
 5. Fold in the white chocolate-butter mixture until fully combined.
-6. In a separate bowl, combine flour, whey protein, baking powder, and salt.
+6. In a separate bowl, combine flour, whey protein, baking powder, baking soda, and salt.
 7. Fold dry ingredients into wet ingredients in **2 additions** until no dry pockets remain.
-8. Toss **220 g raspberries** with **10 g cornstarch** and fold into batter gently.
-9. Transfer batter to pan and bake **38-48 minutes** until a skewer shows moist crumbs and center temperature reaches **96 C**.
+8. Toss **180 g raspberries** with **10 g cornstarch** and fold into batter gently.
+9. Transfer batter to pan and bake **40-50 minutes** without opening the oven in the first **30 minutes**, until a skewer shows moist crumbs and center temperature reaches **96 C**.
 10. Cool in pan for **15 minutes**, then unmold and cool fully on a rack.
 
 **Raspberry filling**
@@ -77,10 +80,13 @@ Finish
 3. Cool filling to room temperature before assembly.
 
 **White chocolate whey frosting**
-1. Melt **90 g white chocolate** gently and whisk in **1 g GMS** while warm.
-2. Cool the chocolate to lukewarm so it does not split the dairy base.
-3. Whip mascarpone, cream, whey protein, powdered erythritol, and the frosting sucralose dose to medium peaks.
-4. Fold in lukewarm white chocolate in **3 additions** until smooth and stable.
+1. Bloom gelatin in **15 g water** for **5 minutes**.
+2. Melt **120 g white chocolate** gently and whisk in **1 g GMS** while warm.
+3. Dissolve the bloomed gelatin into the warm chocolate mixture until fully smooth.
+4. Cool the chocolate-gelatin mixture to lukewarm (**30-32 C**) so it does not split the dairy base.
+5. Whip mascarpone, cream, whey protein, powdered erythritol, and the frosting sucralose dose to medium peaks.
+6. Fold in lukewarm chocolate-gelatin mixture in **3 additions** until smooth and stable.
+7. Chill frosting for **10-15 minutes** before final assembly if it feels soft.
 
 **Assembly**
 1. Slice the cooled cake horizontally into **2 even layers**.
@@ -130,6 +136,8 @@ Finish
 - GMS is used at low dose to improve emulsion stability and keep crumb softness when sugar is partially replaced.
 - Keeping part of the sweetness as sugar preserves better browning and less cooling effect than full erythritol replacement.
 - Total high-intensity sweetener target is about **19 g sugar-equivalent sweetness** across batter and frosting; use your product label conversion to dose accurately.
+- For stronger sponge rise, prioritize ribbon-stage egg whipping, fresh baking powder, and no oven-door opening during early baking.
+- For firmer frosting, keep all dairy cold and finish with a short chill before spreading.
 - White chocolate whey increases protein density, but total whey is capped to protect cake tenderness.
 - Cornstarch on raspberries limits free-water bleed and helps keep layer definition after slicing.
 - For frozen raspberries, use directly from frozen to reduce color bleed and over-hydration of the batter.
