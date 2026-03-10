@@ -16,7 +16,7 @@ Recipe workflow:
 - Copy `/template/your-name.json` to `/src/content/authors/<author-id>.json`.
 - Optional but recommended: place a hero image in `/public/pix` as `.webp` and reference it in the recipe markdown.
 - Use tags from `/template/canonical-tags.txt` only (single source of truth).
-- Use `/template/recipe-writer-agent.md` as the system prompt for your recipe LLM.
+- Use `/template/recipe-writer.md` for Deepagent workflow (superset, includes source-ingestion workflow). Keep `/template/recipe-writer-agent.md` as normative compact policy.
 - Run `npm run validate:template` to verify template compliance.
 - Run `npm run validate:recipes` before committing recipe changes.
 - Use `npm run validate:recipes:strict` when you want canonical-tag and strict quantity enforcement.
