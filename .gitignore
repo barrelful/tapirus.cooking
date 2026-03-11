@@ -26,3 +26,4 @@ pnpm-debug.log*
 # OpenCode
 .sisyphus/
 AGENTS.md
+.opencode/
