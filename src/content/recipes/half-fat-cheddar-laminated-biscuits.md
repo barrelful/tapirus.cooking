@@ -1,7 +1,7 @@
 ---
 title: "Half-Fat Cheddar Laminated Biscuits"
 date: 2026-04-15
-tags: ["american", "bread", "breakfast", "cheese"]
+tags: ["bread", "breakfast", "cheese"]
 author: "barrelful"
 ---
 
