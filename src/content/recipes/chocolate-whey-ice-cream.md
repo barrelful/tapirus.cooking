@@ -71,12 +71,15 @@ Optional (flavour depth)
 | Protein | ~17.3 g | ~7.4 g |
 | Total carbohydrates | ~23.3 g | ~9.9 g |
 | Sugars | ~7.8 g | ~3.3 g |
+| Polyols (erythritol) | ~12.5 g | ~5.3 g |
 | Fat | ~1.7 g | ~0.7 g |
 | Saturated fat | ~0.8 g | ~0.3 g |
 | Fibre | ~2.5 g | ~1.1 g |
 | Sodium | ~250 mg | ~107 mg |
 
 > **Sodium assumption:** **1.0 g salt ≈ 393 mg sodium**, plus naturally occurring sodium from skim milk.
+
+Calories assume erythritol contributes ~0 kcal and the high-intensity sweetener contributes negligible energy.
 
 ---
 

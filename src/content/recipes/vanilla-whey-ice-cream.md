@@ -63,12 +63,15 @@ Base
 | Protein | ~19.2 g | ~7.9 g |
 | Total carbohydrates | ~24.9 g | ~10.3 g |
 | Sugars | ~10.9 g | ~4.5 g |
+| Polyols (erythritol) | ~12.5 g | ~5.2 g |
 | Fat | ~6.9 g | ~2.8 g |
 | Saturated fat | ~3.8 g | ~1.6 g |
 | Fibre | ~0.5 g | ~0.2 g |
 | Sodium | ~227 mg | ~94 mg |
 
 > **Sodium assumption:** **0.5 g salt ≈ 197 mg sodium**, plus naturally occurring sodium from milk, whey powder, egg yolk, and vanilla extract.
+
+Calories assume erythritol contributes ~0 kcal and the sucralose product contributes negligible energy.
 
 ## Notes
 
