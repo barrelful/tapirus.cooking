@@ -31,7 +31,7 @@ Cheesecake base
 Strawberry ripple
 - 110 g frozen strawberries
 - 20 g strawberry jam
-- 8 g erythritol
+- 20 g erythritol
 - 5 g lemon juice
 - 0.2 g xanthan gum
 
