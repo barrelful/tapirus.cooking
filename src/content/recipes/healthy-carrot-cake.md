@@ -1,98 +1,99 @@
 ---
-title: "Healthy Carrot Cake (Sugar-Aware, Protein-Supported Tray Bake)"
+title: "Healthy Carrot Cake (Brazilian-Style, Sugar-Aware, Protein-Supported)"
 date: 2026-03-10
-tags: ["cake", "dessert", "high-protein", "light", "sugar-aware"]
+tags: ["brazilian", "cake", "dessert", "high-protein", "light", "sugar-aware"]
 author: "barrelful"
 ---
 
-A blender-style carrot cake with a classic cooked chocolate glaze that sets thin and glossy.
-Sugar is reduced with powdered erythritol and a small sucralose trim while keeping the familiar carrot-cake profile.
-Designed as one 23 x 23 cm tray cake for 9 portions (about 150 g each), with reliable fridge storage.
+A blender-style Brazilian carrot cake with a cooked chocolate glaze that sets into a thin crackly shell.
+Sugar is reduced with powdered erythritol and a small sucralose trim; protein is raised mainly with extra eggs and a little nonfat dry milk, plus a small dose of whey isolate.
+Designed as one 23 x 23 cm tray cake for 9 portions (about 142 g each), with reliable fridge storage and freezer-friendly un-glazed slices.
 
-- ⏲️ Prep time: ~25 min
-- 🍳 Cook time: ~38 min
-- 🍽️ Servings: 9 portions (about 150 g each)
-- ❄️ Freezer-friendly (un-glazed slices or sponge portions only)
+- ⏲️ Prep time: ~20 min
+- 🍳 Cook time: ~50 min
+- 🍽️ Servings: 9 portions (about 142 g each)
+- ❄️ Freezer-friendly (un-glazed sponge slices only)
 
 ## Ingredients
 
 Carrot cake sponge (23 x 23 cm pan)
-- 250 g carrots, peeled and chopped
-- 180 g eggs (about 3 large)
-- 90 g neutral oil
-- 120 g Greek yogurt (2-5% fat)
-- 110 g sugar
-- 55 g powdered erythritol
-- Sucralose equivalent to 35 g sugar sweetness (per product label)
-- 175 g plain flour
-- 40 g unflavoured whey isolate
-- 10 g baking powder
-- 3 g baking soda
-- 3 g fine salt
-- 3 g ground cinnamon
-- 2 g glycerol monostearate (GMS)
-- Up to 30 g milk or extra yogurt, only if batter is too thick
-- Up to 16 g extra plain flour, only if batter is too loose
+- 320 g carrots, peeled and chopped
+- 250 g eggs (about 5 large, room temperature)
+- 100 g neutral oil
+- 130 g granulated sugar
+- 50 g powdered erythritol
+- Sucralose equivalent to about 25 g sugar sweetness (per product label)
+- 200 g plain flour
+- 20 g nonfat dry milk
+- 10 g unflavoured whey isolate
+- 1 g glycerol monostearate (GMS)
+- 9 g baking powder
+- 1 g baking soda
+- 2 g fine salt
 
 Cooked chocolate glaze
-- 70 g sugar
-- 15 g powdered erythritol (optional)
-- 20 g unsweetened cocoa powder
-- 90 g water
-- 14 g unsalted butter
+- 30 g unsweetened cocoa powder
+- 50 g granulated sugar
+- 20 g powdered erythritol
+- 15 g unsalted butter
+- 67 g water
 
 ## Directions
 
 **Carrot cake sponge**
-1. Heat oven to 175 C conventional (or 165 C fan) and line a 23 x 23 cm pan with parchment.
-2. If the chopped carrots release visible free water, drain only the loose liquid and keep the carrots otherwise intact.
-3. Add carrots, eggs, oil, yogurt, sugar, powdered erythritol, sucralose dose, and GMS to a blender and blend 45-60 seconds until fully smooth.
-4. In a bowl, whisk flour, whey isolate, baking powder, baking soda, salt, and cinnamon until evenly combined.
-5. Pour the blended wet base into the dry mix and fold just until no dry pockets remain.
-6. Check batter texture: it should fall in thick ribbons and level slowly in 8-12 seconds; if too thick, add milk or yogurt 10 g at a time (up to 30 g), and if too loose, fold in flour 8 g at a time (up to 16 g).
-7. Spread batter evenly in the lined pan and bake 32-38 minutes, until a center skewer comes out with moist crumbs and the top springs back lightly.
-8. Cool in pan for 15 minutes, then lift out and cool completely before glazing.
+1. Heat oven to 175 C conventional (or 165 C fan) and line a 23 x 23 cm pan with parchment; do not mix the batter before the oven is fully preheated.
+2. Peel the carrots, trim both ends, and slice into thin rounds; transfer to a blender. Prefer medium carrots over very large ones, since they release less free water.
+3. Add the eggs, neutral oil, granulated sugar, powdered erythritol, sucralose, and GMS to the blender and blend until completely smooth, about 60 seconds, so no orange flecks remain and the GMS is fully dispersed.
+4. In a large bowl, sift together the plain flour, nonfat dry milk, whey isolate, baking powder, baking soda, and fine salt.
+5. Pour the blended wet base over the dry mix in three additions, folding gently with a whisk after each addition just until no dry streaks remain; over-mixing makes the crumb tough.
+6. The moment the baking powder is folded in, scrape the batter into the lined pan and put it straight into the oven; leaving the batter to sit deflates the rise.
+7. Bake 45-50 minutes, until a centre skewer comes out clean and the top springs back lightly; do not open the oven door for the first 30 minutes.
+8. Cool the cake in the pan for 15 minutes so it is still warm when the glaze goes on.
 
 **Cooked chocolate glaze**
-1. Add sugar, powdered erythritol (if using), cocoa powder, and water to a small saucepan and whisk until smooth.
-2. Cook over medium heat until the mixture steams and medium-to-large bubbles appear around the edges, then let it bubble gently for about 3-4 minutes.
-3. Remove from heat, add butter, and whisk until fully melted and glossy.
-4. Spread glaze over the cooled cake while warm and fluid, then leave to cool until the surface sets into a thin crackly shell.
+1. Add the cocoa powder, granulated sugar, powdered erythritol, unsalted butter, and water to a small saucepan and whisk to combine.
+2. Set over medium heat and whisk constantly until it comes to a boil; once boiling, keep whisking for 2 more minutes until the syrup forms large bubbles and visibly thickens, as this agitation is what makes it crystallise later.
+3. Remove from the heat and stir with a silicone spatula for about 2 minutes, until the syrup stops steaming and loses some heat; this step keeps the glaze from running off the cake.
+4. While the cake is still warm, pour the glaze over the top and spread quickly to cover the whole surface, then leave undisturbed until it cools and hardens into a crackled shell.
 
 ## Portioning & Storage
 
 **Per portion (plated):**
-- 1 portion = 1/9 cake (about 150 g ready-to-eat)
+- 1 portion = 1/9 cake (about 142 g ready-to-eat)
 
 **Batch yield:**
-- Total finished yield: about 1,350 g (sponge plus glaze)
+- Total finished yield: about 1,280 g (sponge plus glaze)
 
 **Storage**
-- Refrigerator: up to 4 days, covered
-- Freezer: up to 1 month for un-glazed slices or sponge portions wrapped airtight
+- Refrigerator: up to 4 days, covered; the glaze softens slightly but re-sets on cooling
+- Freezer: up to 1 month for un-glazed sponge slices wrapped airtight (the glaze does not freeze cleanly)
 - Thaw frozen portions overnight in the refrigerator before serving
+- Reheat a single portion for about 10 seconds in a microwave if a warm serve is desired
 
 ## Nutritional Information (Approximate)
 
-*(1 portion = 1/9 cake, about 150 g; assumed total finished yield about 1,350 g)*
+*(1 portion = 1/9 cake, about 142 g; assumed total finished yield about 1,280 g)*
 
 | Nutrient | Per portion | Per 100 g |
 |---|---:|---:|
-| Energy | ~325 kcal | ~217 kcal |
-| Protein | ~10.0 g | ~6.7 g |
-| Total carbohydrates | ~39.5 g | ~26.3 g |
-| Sugars | ~22.0 g | ~14.7 g |
-| Fat | ~14.5 g | ~9.7 g |
-| Saturated fat | ~3.0 g | ~2.0 g |
-| Fibre | ~2.3 g | ~1.5 g |
-| Sodium | ~420 mg | ~280 mg |
+| Energy | ~344 kcal | ~242 kcal |
+| Protein | ~8.5 g | ~6.0 g |
+| Total carbohydrates | ~44 g | ~31 g |
+| Sugars | ~23 g | ~16 g |
+| Fat | ~16 g | ~11.3 g |
+| Saturated fat | ~3.5 g | ~2.4 g |
+| Fibre | ~2.7 g | ~1.9 g |
+| Sodium | ~305 mg | ~215 mg |
 
-> **Sodium assumption:** includes **3 g fine salt** in the sponge (**1 g salt about 393 mg sodium**, so about 1,180 mg sodium from added salt), plus naturally occurring sodium from eggs, yogurt, whey, cocoa, and leavening agents.
+> **Sodium assumption:** includes **2 g fine salt** in the sponge (**1 g salt about 393 mg sodium**, so about 786 mg sodium from added salt), plus roughly **954 mg from baking powder** and **274 mg from baking soda**, plus naturally occurring sodium from eggs, nonfat dry milk, whey isolate, carrots, and cocoa.
 
 ## Notes
 
-- This keeps the Panelinha-style identity: blended carrot batter and a cooked chocolate glaze that is poured warm and sets with slight crackle.
-- Sweetness is engineered as sugar plus erythritol with a small sucralose correction, so browning and moisture stay closer to classic carrot cake than full sugar replacement.
-- Whey is capped at 40 g and limited to the sponge to raise protein without pushing chalky texture or muting carrot flavor.
-- Low-dose GMS (2 g) supports emulsion stability and helps maintain a soft crumb under reduced sugar and added protein.
-- The glaze is intentionally protein-free, so it stays glossy, spreadable when warm, and cleanly set after cooling.
+- This keeps the Panelinha identity: a deep-orange blender carrot batter and a cooked chocolate glaze that is poured warm and crackles as it cools.
+- The earlier version of this recipe sagged in the centre and turned rubbery because it carried too much free water (Greek yogurt plus a high carrot load) and too much whey isolate; this version restores the carrot, flour, and sugar ratios closer to the Brazilian original and caps whey isolate at 10 g.
+- Protein is raised mainly with extra eggs and a little nonfat dry milk, which behave far better in a cake batter than large doses of whey isolate, since whey isolate heat-sets into a rubbery network.
+- Real sucrose is kept as the majority sweetener because it binds water and tenderises the crumb; erythritol does neither, so a fully erythritol-based formula tends to sag and turn gummy.
+- The glaze follows Panelinha's method: everything cooks together, the syrup is boiled then stirred off the heat, and it goes onto the still-warm cake so it sets slowly into a crackled shell rather than soaking in.
+- Erythritol is treated as a polyol with roughly zero net energy and is excluded from the carbohydrate and sugar figures above.
+- A small dose of GMS (glycerol monostearate, 1 g) is included as an emulsifier and anti-staling agent; it stabilises the leaner lower-oil batter and keeps the crumb softer through refrigerated and frozen storage, which supports the meal-prep and freezer-stability goals. It does not replace the tenderness that fat provides in the fresh crumb.
+- Reference: https://panelinha.com.br/receita/bolo-de-cenoura-com-cobertura-de-chocolate
