@@ -17,14 +17,14 @@ Design intent: repeatable high-protein dessert suitable for fat loss, with stabl
 ## Ingredients
 
 Base
-- 250 g skim milk
-- 150 g water
-- 30 g chocolate whey protein powder
+- 400 g skim milk
+- 45 g chocolate whey protein powder
 - 10 g cocoa powder (Dutch-process preferred)
 - 25 g erythritol
 - High-intensity sweetener (sucralose or stevia), to taste
-- 1.0 g xanthan gum
-- 1.0 g fine salt
+- 30 g skim milk powder
+- 0.8 g xanthan gum
+- 0.8 g fine salt
 - 2.5 mL vanilla extract (½ tsp)
 
 Optional (flavour depth)
@@ -36,9 +36,9 @@ Optional (flavour depth)
 ## Directions
 
 **Base**
-1. Combine the whey protein, cocoa powder, erythritol, xanthan gum, and salt in a bowl.
+1. Combine the whey protein, milk powder, cocoa powder, erythritol, xanthan gum, and salt in a bowl.
 2. Whisk the dry mix thoroughly to pre-disperse the xanthan and prevent clumps.
-3. Add the skim milk, water, and vanilla extract to the Creami pint (or a blender jug).
+3. Add the skim milk, and vanilla extract to the Creami pint (or a blender jug).
 4. Add the dry mix and blend **30–45 seconds** until fully smooth.
 5. Rest **5 minutes** to hydrate the xanthan.
 6. Pour into the Creami pint and freeze **12–24 hours** on a level surface.
